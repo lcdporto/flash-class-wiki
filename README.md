@@ -11,5 +11,9 @@ Transmitir
   * know-how básico sobre como:
     * editar uma página
     * criar uma página
+  * apresentação de
+    * possibilidade de rever edições anteriores
+    * os namespaces para organizar dados
+    * utilização de temlates
   * as regras e conceitos especificos ao Wiki interno do LCD
   * links úteis para evolução
